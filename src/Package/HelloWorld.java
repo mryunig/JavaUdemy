@@ -17,6 +17,8 @@ public class HelloWorld {
 		String eingabeString = sc.next();
 		
 		System.out.println("Eingabe: " + eingabeString);
+		
+		System.out.println("Hallo from Linux");
 	}
 
 }
